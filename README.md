@@ -1,3 +1,4 @@
 # DigitRecognizer
-Uses Linear SVC (Support Vector Classifier) to guess digits that user writes into Pygame window.
-<img src="test-image.JPG"><img src="guess.JPG">
+Uses Linear SVC (Support Vector Classifier) to predict digits that the user writes into Pygame window.
+## Example:
+<img src="test-image.JPG" width="500px"><img src="guess.JPG" width="500px">
